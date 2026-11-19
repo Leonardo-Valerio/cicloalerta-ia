@@ -237,7 +237,7 @@ com dado ao vivo) estão mapeados, com correção proposta.
 **Links**
 
 - Repositório: https://github.com/Leonardo-Valerio/cicloalerta-ia
-- Vídeo de demonstração: *preencher*
+- Vídeo de demonstração: https://www.youtube.com/watch?v=aOEuGNAh3ss
 - Repositório do bot de RPA, que cria os alertas consultados pelo agente: https://github.com/Leonardo-Valerio/cicloalerta-rpa
 
 ---
