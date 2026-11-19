@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+base/embeddings_*.npy
+.env
+base/cache_consultas_*.json

@@ -1,0 +1,6 @@
+{
+ "limiar": 0.56,
+ "recall@1": 0.88,
+ "recall@3": 1.0,
+ "acuracia_balanceada": 0.9091
+}
